@@ -1,9 +1,13 @@
 _repo: Tom-Sawyer-ilmailija-Huckleberry-Finn-in-jatko_47411
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hagman, Tyko
     gutenberg_agent_id: '39050'
     url: http://www.gutenberg.org/2009/agents/39050
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47411#Tom-Sawyer-ilmailija-Huckleberry-Finn-in-jatko
 gutenberg_issued: '2014-11-21'
 gutenberg_type: Text
 identifiers:
